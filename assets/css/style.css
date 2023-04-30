@@ -54,4 +54,9 @@ body {
   font-weight: 500;
   font-size: 1.1rem;
   width: 150px;
+  transition: all 1s ease;
+}
+
+#login-button:hover {
+  opacity: 0.8;
 }
